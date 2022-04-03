@@ -3,12 +3,12 @@
 
 Classification
 
--Decision Tree 
+1. Decision Tree 
 
--Random Forest
+2. Random Forest
 
--Logistic Regression
+3. Logistic Regression
 
--K Nearest Neighbours
+4. Nearest Neighbours
 
--Support Vector Machines(SVM)
+5. Support Vector Machines(SVM)
