@@ -8,3 +8,4 @@ Classification
 3. Logistic Regression
 4. K-Nearest Neighbors(KNN)
 5. Support Vector Machines(SVM)
+6. Naive Bayes 
