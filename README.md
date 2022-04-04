@@ -1,5 +1,4 @@
-# Machine-learning-Algorithms
-
+# Supervised Learning Techniques
 
 ### Regression
 
@@ -20,3 +19,4 @@ Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning
 5. Support Vector Machines(SVM)
 6. Naive Bayes 
 
+# Unsupervised Learning Techniques
