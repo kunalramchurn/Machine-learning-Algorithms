@@ -2,11 +2,13 @@
 
 Workflow
 
-Regression
+### Regression
+
+Workflow 
 1. Linear Regression
 
 
-Classification
+### Classification
 
 Workflow
 
