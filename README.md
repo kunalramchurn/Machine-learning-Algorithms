@@ -4,6 +4,7 @@
 
 Workflow 
 1. Linear Regression
+2. Ridhge and Lasso Regression
 
 
 ### Classification
@@ -18,5 +19,9 @@ Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning
 4. K-Nearest Neighbors(KNN)
 5. Support Vector Machines(SVM)
 6. Naive Bayes 
+7. Ensemble Methods
 
 # Unsupervised Learning Techniques
+
+1. Principal Components Analysis
+2. K-Means Clustering
