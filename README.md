@@ -4,7 +4,7 @@
 
 Workflow 
 1. Linear Regression
-2. Ridhge and Lasso Regression
+2. Ridge and Lasso Regression
 
 
 ### Classification
