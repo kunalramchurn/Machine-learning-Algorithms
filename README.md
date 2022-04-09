@@ -3,6 +3,10 @@
 ### Regression
 
 Workflow 
+
+Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
+
+Algorithms:
 1. Linear Regression
 2. Ridge and Lasso Regression
 
@@ -13,6 +17,7 @@ Workflow
 
 Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
 
+Algorithms:
 1. Decision Trees
 2. Random Forest
 3. Logistic Regression
