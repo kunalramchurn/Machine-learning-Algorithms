@@ -4,7 +4,7 @@
 
 Workflow 
 
-Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
+Import libraries > EDA > Feature Engineering and scaling > Model Deployment > Model Evaluation
 
 Algorithms:
 1. Linear Regression
