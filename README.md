@@ -11,7 +11,7 @@ Workflow
 
 Workflow
 
-Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment(Training and testing) > Model Evaluation
+Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
 
 1. Decision Trees
 2. Random Forest
