@@ -1,4 +1,4 @@
-# Supervised Learning Techniques
+## Supervised Learning Techniques
 
 ### Regression
 
@@ -21,7 +21,7 @@ Import libraries > EDA > Feature Engineering and scaling > Hyperparameter Tuning
 6. Naive Bayes 
 7. Ensemble Methods
 
-# Unsupervised Learning Techniques
+## Unsupervised Learning Techniques
 
 1. Principal Components Analysis
 2. K-Means Clustering
