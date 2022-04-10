@@ -29,4 +29,6 @@ Algorithms:
 ## Unsupervised Learning Techniques
 
 1. Principal Components Analysis
-2. K-Means Clustering
+2. TSNE
+3. K-Means Clustering
+4. Hierarchical Clustering
