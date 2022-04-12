@@ -4,7 +4,7 @@
 
 Workflow 
 
-Define Problem Statement > Import libraries > Dataset Validity Checks > EDA > Feature Engineering and scaling > Model Deployment > Model Evaluation
+Define Problem Statement > Dataset Validity Checks > EDA > Feature Engineering and scaling > Model Deployment > Model Evaluation
 
 Algorithms:
 1. Linear Regression
@@ -15,7 +15,7 @@ Algorithms:
 
 Workflow
 
-Define Problem Statement > Import libraries > Dataset Validity Checks > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
+Define Problem Statement > Dataset Validity Checks > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
 
 Algorithms:
 1. Decision Trees
