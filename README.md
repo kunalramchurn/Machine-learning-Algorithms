@@ -1,3 +1,5 @@
+This repository aims at simplifying traditional machine learning models, interpreting the model results, and generating insights.
+
 ## Supervised Learning Techniques
 
 ### Regression
