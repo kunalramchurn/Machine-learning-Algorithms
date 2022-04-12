@@ -8,7 +8,7 @@ Workflow
 
 Define Problem Statement > Dataset Validity Checks > EDA > Feature Engineering and scaling > Model Deployment > Model Evaluation
 
-Algorithms:
+Algorithms covered:
 1. Linear Regression
 2. Ridge and Lasso Regression
 
@@ -19,7 +19,7 @@ Workflow
 
 Define Problem Statement > Dataset Validity Checks > EDA > Feature Engineering and scaling > Hyperparameter Tuning > Model Deployment > Model Evaluation
 
-Algorithms:
+Algorithms covered:
 1. Decision Trees
 2. Random Forest
 3. Logistic Regression
@@ -30,6 +30,7 @@ Algorithms:
 
 ## Unsupervised Learning Techniques
 
+Algorithms covered:
 1. Principal Components Analysis
 2. TSNE
 3. K-Means Clustering
