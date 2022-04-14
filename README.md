@@ -2,7 +2,7 @@ This repository aims at explaining in simple terms the logics behind traditional
 
 ## Supervised Learning Techniques
 
-A Supervised Learning algorithm takes multiple input features (training examples) along with its labels/target variable and then learn the relationship between them. Then. it will apply the learned relationship to classify new examples/data points that the machine hasn’t seen before(also known as the testing phase).
+A Supervised Learning algorithm learns the relationship between multiple input features (training examples) and its labels/target variable. Then, it will apply the learned relationship to classify new examples/data points that the machine hasn’t seen before(also known as the testing phase).
 
 ### Regression
 
