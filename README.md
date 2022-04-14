@@ -12,7 +12,8 @@ Define Problem Statement > Dataset Validity Checks > EDA > Feature Engineering a
 
 Algorithms covered:
 1. Linear Regression
-2. Ridge and Lasso Regression
+2. Multi Linear Regression
+3. Ridge and Lasso Regression
 
 
 ### Classification
