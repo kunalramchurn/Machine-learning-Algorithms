@@ -1,4 +1,4 @@
-This repository aims at explaining in simple terms the logics behind traditional machine learning models,methodologies and interpreting the model results, and generating insights using the Scikit-Learn Library in Python.The contents in this repository is personalized and curated to effectively interpret the modelling pipelines.
+This repository aims at explaining in simple terms the functions,logics,and mechanisms behind traditional machine learning models,methodologies and interpreting the model results, and generating insights using the Scikit-Learn Library in Python.The contents in this repository is personalized and curated to effectively interpret the modelling pipelines. The projects also sheds light on data preprocessing, feature engineering and scaling and exploratory data analysis.
 
 ## Supervised Learning Techniques
 
