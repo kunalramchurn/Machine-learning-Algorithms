@@ -44,6 +44,7 @@ Algorithms covered:
 7. Ensemble methods
    - XGBoost
    - AdaBoost
+   - Bagging
 
 ## Unsupervised Learning Techniques
 
