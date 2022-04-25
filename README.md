@@ -41,7 +41,9 @@ Algorithms covered:
 4. K-Nearest Neighbors(KNN)
 5. Support Vector Machines(SVM)
 6. Naive Bayes 
-7. Ensemble Methods
+7. Ensemble methods
+   - XGBoost
+   - AdaBoost
 
 ## Unsupervised Learning Techniques
 
@@ -49,4 +51,4 @@ Algorithms covered:
 1. Principal Components Analysis
 2. TSNE
 3. K-Means Clustering
-4. Hierarchical Clustering
+4. Hierarchical Clustering: Agglomerative Clustering
