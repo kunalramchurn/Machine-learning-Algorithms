@@ -1,6 +1,6 @@
 ## Overview 
 
-This repository aims at explaining in simple terms the mechanisms behind traditional machine learning models,methodologies and interpreting the model results, and generating insights using the Scikit-Learn Library in Python.The contents in this repository is personalized and curated to effectively interpret the modelling pipelines. The projects also sheds light on the following methods:
+This repository aims at explaining in simple terms the mechanisms behind traditional machine learning models,methodologies and interpreting the model results, and generating insights using the `Scikit-Learn` Library in Python.The contents in this repository is personalized and curated to effectively interpret the modelling pipelines. The projects also sheds light on the following methods:
 
 1. Data Preprocessing
 2. Feature engineering and Scaling  
