@@ -16,7 +16,7 @@ This repository aims at explaining in simple terms the mechanisms behind traditi
 
 ## Supervised Learning Techniques
 
-A Supervised Learning algorithm learns the relationship between multiple input features (training examples) and its labels/target variable. Then, it will apply the learned relationship to classify new examples/data points that the machine hasn’t seen before(testing examples).
+A <b> Supervised Learning algorithm</b> learns the relationship between multiple input features (training examples) and its labels/target variable. Then, it will apply the learned relationship to classify new examples/data points that the machine hasn’t seen before(testing examples).
 
 ### Regression
 
